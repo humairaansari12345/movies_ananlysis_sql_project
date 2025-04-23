@@ -13,5 +13,5 @@ Answered business-like questions using grouping, filtering, and aggregation
 ##Tools: SQL (PostgreSQL), CTEs, CASE, REGEXP_REPLACE, Joins
 
 ##Dataset
-The data for this prtoject is sourced from kaggle dataset:
+The data for this project is sourced from kaggle dataset:
 ##dataset link:** [Movies Dataset](https://www.kaggle.com/datasets/harshitstark/real-movies-dataset)  
