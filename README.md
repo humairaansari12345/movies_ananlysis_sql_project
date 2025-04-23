@@ -1,1 +1,1 @@
-# movies_ananlysis_sql_project
+# Movies Analysis Project Using SQL
